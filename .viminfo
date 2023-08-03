@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1691046503,,"x"
+|2,0,1691047723,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,50 @@
 # Registers:
 
 # File marks:
-'0  7  0  ~/demo.java
-|4,48,7,0,1691046503,"~/demo.java"
+'0  8  0  ~/demo.java
+|4,48,8,0,1691047723,"~/demo.java"
+'1  7  5  ~/demo.java
+|4,49,7,5,1691047182,"~/demo.java"
+'2  7  0  ~/demo.java
+|4,50,7,0,1691047182,"~/demo.java"
+'3  7  5  ~/demo.java
+|4,51,7,5,1691046503,"~/demo.java"
+'4  7  0  ~/demo.java
+|4,52,7,0,1691046503,"~/demo.java"
 
 # Jumplist (newest first):
+-'  8  0  ~/demo.java
+|4,39,8,0,1691047723,"~/demo.java"
+-'  12  0  ~/demo.java
+|4,39,12,0,1691047208,"~/demo.java"
+-'  11  0  ~/demo.java
+|4,39,11,0,1691047208,"~/demo.java"
+-'  10  0  ~/demo.java
+|4,39,10,0,1691047208,"~/demo.java"
+-'  9  0  ~/demo.java
+|4,39,9,0,1691047208,"~/demo.java"
+-'  7  5  ~/demo.java
+|4,39,7,5,1691047200,"~/demo.java"
+-'  7  0  ~/demo.java
+|4,39,7,0,1691047182,"~/demo.java"
 -'  7  0  ~/demo.java
 |4,39,7,0,1691046503,"~/demo.java"
+-'  1  0  ~/demo.java
+|4,39,1,0,1691046449,"~/demo.java"
+-'  1  0  ~/demo.java
+|4,39,1,0,1691046449,"~/demo.java"
 -'  1  0  ~/demo.java
 |4,39,1,0,1691046449,"~/demo.java"
 
 # History of marks within files (newest to oldest):
 
 > ~/demo.java
-	*	1691046499	0
-	"	7	0
-	^	7	1
-	.	7	0
-	+	7	0
+	*	1691047721	0
+	"	8	0
+	^	8	0
+	.	8	0
+	+	7	5
+	+	11	0
+	+	8	0
+	+	6	40
+	+	8	0
